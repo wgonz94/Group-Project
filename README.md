@@ -1,4 +1,4 @@
-# MUSICALITY
+# MUSICALITY (project #1)
 
 Deployed Project - https://philliplaub.github.io/Group-Project/
 
@@ -10,12 +10,12 @@ Music website that allows you to add artsist and with one click, access:
 -Top Youtube Videos
 
 ## Technologies  
--Bootstrap
--HTML
--CSS
--Javascript/jQuery
--Ajax API calls
+- Bootstrap
+- HTML
+- CSS
+- Javascript/jQuery
+- Ajax API calls
 
 ## Role
--I was a part of the Backend/API team accessing the APIs for the concert informtion and lyric data (preview).
+- This was the first project I was involved in. I was a part of the Backend/API team accessing the APIs for the concert informtion and lyric data (preview).
 
