@@ -1,6 +1,8 @@
 # MUSICALITY (project #1)
 
 
+![Musicality Gif](https://media.giphy.com/media/iG3RHvprul7Y6cP9ff/giphy.gif)
+
 Deployed Project - https://philliplaub.github.io/Musicality/
 
 Music website that allows you to add artsist and with one click, access:
