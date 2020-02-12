@@ -1,7 +1,7 @@
 # MUSICALITY (project #1)
 
 
-![Musicality Gif](https://media.giphy.com/media/iG3RHvprul7Y6cP9ff/giphy.gif)
+![Musicality Gif](https://media.giphy.com/media/XyUzahqVnlYkHwfbrF/giphy.gif)
 
 Deployed Project - https://philliplaub.github.io/Musicality/
 
