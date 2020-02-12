@@ -1,6 +1,6 @@
 # MUSICALITY (project #1)
 
-Deployed Project - https://philliplaub.github.io/Group-Project/
+Deployed Project - https://philliplaub.github.io/Musicality/
 
 Music website that allows you to add artsist and with one click, access:
 -Artist Headshot
